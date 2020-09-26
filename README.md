@@ -1,10 +1,10 @@
-## Welcome to React Native Sandbox Setup Guide (and more...)
+## React Native Setup Guide
 
-How to install Ignite - React Native Boilerplate
+Short Guide to installing and running Ignite - React Native Boilerplate
 
-### Setup
-[Link](https://github.com/infinitered/ignite-bowser#why-this-stack)
-Install globally:
+### Setup [Ignite](https://github.com/infinitered/ignite-bowser#why-this-stack)
+
+**Install globally**
 ```
 node
 npm
@@ -18,12 +18,14 @@ yarn global add ignite-cli
 ignite new MyApp -b bowser
 ```
 **Run Project**
+
 `cd` into your new app and run `react-native run-ios` or `react-native run-android`
 
-**Reactotron**
-Inspeact React and React Native Apps with ease with free desktop application
+**Reactotron** [Link](https://infinite.red/reactotron)
 
-Download and Run: [Link](https://github.com/infinitered/reactotron/blob/master/docs/installing.md)
+Inspect React and React Native Apps with ease with free desktop application.
+
+Download and Run [Reactotron](https://github.com/infinitered/reactotron/blob/master/docs/installing.md)
 
 # The End
 
