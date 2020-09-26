@@ -1,6 +1,6 @@
 ## Welcome to React Native Sandbox Setup Guide (and more...)
 
-A guide of setup and install of React Native Boilerplate - Ignite
+How to install Ignite - React Native Boilerplate
 
 ### Setup
 
@@ -19,19 +19,8 @@ ignite new MyApp -b bowser
 ```
 [Link](https://github.com/infinitered/ignite-bowser#why-this-stack)
 
+# The End
 
-
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
