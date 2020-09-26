@@ -1,31 +1,37 @@
 ## Welcome to React Native Sandbox Setup Guide (and more...)
 
-You can use the [editor on GitHub](https://github.com/marcinlentner/react-native-sandbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A guide of setup and install of React Native Boilerplate - Ignite
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Setup
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Install globally:
 ```
+node
+npm
+yarn
+cocoapods
+react-native
+yarn global add ignite-cli
+```
+Then install new Ignite Project
+```
+ignite new MyApp -b bowser
+```
+[Link](https://github.com/infinitered/ignite-bowser#why-this-stack)
 
+
+
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
