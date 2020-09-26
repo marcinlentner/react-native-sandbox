@@ -3,7 +3,7 @@
 How to install Ignite - React Native Boilerplate
 
 ### Setup
-
+[Link](https://github.com/infinitered/ignite-bowser#why-this-stack)
 Install globally:
 ```
 node
@@ -13,11 +13,17 @@ cocoapods
 react-native
 yarn global add ignite-cli
 ```
-Then install new Ignite Project
+**Install new Ignite Project**
 ```
 ignite new MyApp -b bowser
 ```
-[Link](https://github.com/infinitered/ignite-bowser#why-this-stack)
+**Run Project**
+`cd` into your new app and run `react-native run-ios` or `react-native run-android`
+
+**Reactotron**
+Inspeact React and React Native Apps with ease with free desktop application
+
+Download and Run: [Link](https://github.com/infinitered/reactotron/blob/master/docs/installing.md)
 
 # The End
 
