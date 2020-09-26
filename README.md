@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to React Native Sandbox Setup Guide (and more...)
 
 You can use the [editor on GitHub](https://github.com/marcinlentner/react-native-sandbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
